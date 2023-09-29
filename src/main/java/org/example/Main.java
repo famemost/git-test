@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Second commit!");
         System.out.println("远程仓库发生修改");
         System.out.println("Third commit!");
+        System.out.println("dev commit!");
     }
 }
